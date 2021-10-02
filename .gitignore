@@ -213,3 +213,12 @@ Temporary Items
 .apdisk
 
 /finesauces_project/local_settings.py
+media
+static
+.log
+.pot
+.pyc
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+
