@@ -58,7 +58,7 @@ cover/
 
 # Django stuff:
 *.log
-local_settings.py
+finesauces_project/local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
@@ -212,3 +212,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+!/finesauces_project/local_settings.py
